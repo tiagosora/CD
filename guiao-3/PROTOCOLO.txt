@@ -1,0 +1,19 @@
+MESSAGE             SENDER                     RECEIVER               JSON
+
+AckMessage          Consumer | Producer        Broker                 {"command": "ack", "serializer": <serializer>}
+SubMessage          Consumer                   Broker                 {"command": "subscribe", "topic": <topic>}
+UnsubMessage        Consumer                   Broker                 {"command": "unsubscribe", "topic": <topic>}
+PubMessage          Producer                   Broker | Consumer      {"command": "publish", "topic": <topic>, "message": <message>}
+ListMessage         Consumer                   Broker                 {"command": "list"}
+ListResponse        Broker                     Consumer               {"command": "list", "topicList": [<topicList list>]}
+
+
+Para enviar as mensagens utilizámos um header com 2 bytes em big endian, que era enviado antes da mensagem e cuja função era 
+identificar o tamanho da mensagem que ia ser recebida de seguida.
+
+AckMessage      -->     Mensagem para identificar o serializer de cada Consumer e Producer.
+SubMessage      -->     Mensagem de subscrição de um tópico.
+UnsubMessage    -->     Mensagem de cancelamento da subscrição.
+PubMessage      -->     Mensagem que contem o conteúdo (mensagem) a ser enviado/publicado e o tópico a que se destina.
+ListMessage     -->     Mensagem para pedir a listagem dos tópicos com value.
+ListResponse    -->     Mensagem de resposta à ListMessage e que contém a lista de tópicos.

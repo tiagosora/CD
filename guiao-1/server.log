@@ -1,0 +1,734 @@
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1647976246}
+DEBUG:root:{"command": "message", "message": "sswswwdw", "ts": 1647976249}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1647976277}
+DEBUG:root:{"command": "message", "message": "dwdwdwdwdwdw", "ts": 1647976279}
+DEBUG:root:{"command": "message", "message": "dwdwdwdwdwd", "ts": 1647976282}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1647976284}
+DEBUG:root:{"command": "message", "message": "tudo bem?", "ts": 1647976288}
+DEBUG:root:{"command": "message", "message": "ya e contigo?", "ts": 1647976303}
+DEBUG:root:{"command": "message", "message": "bue fixe", "ts": 1647976309}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:received "{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648043502}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "Banana", "ts": 1648043592}
+DEBUG:root:{"command": "message", "message": "aaaaaaa", "ts": 1648043596}
+DEBUG:root:{"command": "message", "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "ts": 1648043601}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648043617}
+DEBUG:root:{"command": "message", "message": "aaaaaaaaaaa", "ts": 1648043619}
+DEBUG:root:{"command": "message", "message": "aaaaaaaaa", "ts": 1648043623}
+DEBUG:root:{"command": "message", "message": "aaaaaaaaaa", "ts": 1648043625}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648044061}
+DEBUG:root:{"command": "message", "message": "join hello", "ts": 1648044065}
+DEBUG:root:{"command": "message", "message": "aaaa", "ts": 1648044088}
+DEBUG:root:{"command": "message", "message": "\u001b[A\u001b[A\u001b[B", "ts": 1648044090}
+DEBUG:root:{"command": "message", "message": "join hello", "ts": 1648044096}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648044097}
+DEBUG:root:{"command": "message", "message": "/", "ts": 1648044100}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "olaaaa", "ts": 1648045127}
+DEBUG:root:{"command": "message", "message": "\u00bansmvwswr", "ts": 1648045129}
+DEBUG:root:{"command": "message", "message": "eefewfewfwefwefewfwefw", "ts": 1648045131}
+DEBUG:root:{"command": "join", "channel": "banan"}
+DEBUG:root:{"command": "join", "channel": "banan"}
+DEBUG:root:{"command": "message", "message": "dqwdqwdqw", "ts": 1648045144}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648045154}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648045155}
+DEBUG:root:{"command": "message", "message": "dwdwdw", "ts": 1648045157}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648045158}
+DEBUG:root:{"command": "message", "message": "dw", "ts": 1648045159}
+DEBUG:root:{"command": "message", "message": "wdwdw", "ts": 1648045160}
+DEBUG:root:{"command": "join", "channel": "banan"}
+DEBUG:root:{"command": "message", "message": "w", "ts": 1648045165}
+DEBUG:root:{"command": "message", "message": "w", "ts": 1648045165}
+DEBUG:root:{"command": "message", "message": "w", "ts": 1648045166}
+DEBUG:root:{"command": "message", "message": "w", "ts": 1648045166}
+DEBUG:root:{"command": "join", "channel": "banan"}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648045176}
+DEBUG:root:{"command": "message", "message": "dw", "ts": 1648045176}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648045177}
+DEBUG:root:{"command": "message", "message": "dw", "ts": 1648045177}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648045709}
+DEBUG:root:{"command": "message", "message": "\u001b[A\u001b[A", "ts": 1648045712}
+DEBUG:root:{"command": "message", "message": "\u001b[B\u001b[B\u001b[B\u001b[B", "ts": 1648045715}
+DEBUG:root:{"command": "message", "message": "\u001b[A", "ts": 1648045717}
+DEBUG:root:{"command": "message", "message": "exi", "ts": 1648045720}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "Ola", "ts": 1648046075}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046081}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046081}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "message", "message": "", "ts": 1648046082}
+DEBUG:root:{"command": "join", "channel": "banan"}
+DEBUG:root:{"command": "message", "message": "\u001b[A\u001b[B", "ts": 1648046099}
+DEBUG:root:{"command": "join", "channel": "bananananann"}
+DEBUG:root:{"command": "message", "message": "dwdwdw", "ts": 1648046124}
+DEBUG:root:{"command": "message", "message": "dwdwdwdw", "ts": 1648046132}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648046277}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648046278}
+DEBUG:root:{"command": "join", "channel": "banana"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648047679}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648047704}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648047713}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648048590}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "dw", "ts": 1648053702}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648053703}
+DEBUG:root:{"command": "message", "message": "dwdw", "ts": 1648053705}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648053840}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648053846}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648054143}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648054146}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648054192}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648054195}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[B\u001b[B\u001b[", "ts": 1648060082}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:received "{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648060364}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "dwdwdw", "ts": 1648060490}
+DEBUG:root:{"command": "message", "message": "dwdwdwdw", "ts": 1648060498}
+DEBUG:root:{"command": "message", "message": "ola bar", "ts": 1648060505}
+DEBUG:root:{"command": "message", "message": "ola foo", "ts": 1648060509}
+DEBUG:root:{"command": "join", "channel": "banana"}
+DEBUG:root:{"command": "message", "message": "cdcdcdc", "ts": 1648060556}
+DEBUG:root:{"command": "message", "message": "cdcddcd", "ts": 1648060560}
+DEBUG:root:{"command": "message", "message": "dwdwdqwdqwdqwdqw", "ts": 1648060566}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648060840}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648060840}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648061656}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648061656}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648061659}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648061659}
+DEBUG:root:{"command": "message", "message": "How are you?", "ts": 1648061659}
+DEBUG:root:{"command": "message", "message": "Are you new around here?", "ts": 1648061659}
+DEBUG:root:{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648061659}
+DEBUG:root:{"command": "message", "message": "You are awesome!", "ts": 1648061659}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648061661}
+DEBUG:root:{"command": "message", "message": "Welcome aboard", "ts": 1648061661}
+DEBUG:root:{"command": "message", "message": "Who are you?", "ts": 1648061661}
+DEBUG:root:{"command": "message", "message": "I'm Joe", "ts": 1648061662}
+DEBUG:root:{"command": "message", "message": "Nice to meet you Joe", "ts": 1648061662}
+DEBUG:root:{"command": "message", "message": "Cya around", "ts": 1648061662}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648061664}
+DEBUG:root:{"command": "join", "channel": "#cd"}
+DEBUG:root:{"command": "message", "message": "no one is here...", "ts": 1648061664}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "#c1"}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "Hello darkness, my old friend", "ts": 1648061667}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "I've come to talk with you again", "ts": 1648061667}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648062360}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648062360}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648062362}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648062362}
+DEBUG:root:{"command": "message", "message": "How are you?", "ts": 1648062362}
+DEBUG:root:{"command": "message", "message": "Are you new around here?", "ts": 1648062362}
+DEBUG:root:{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648062363}
+DEBUG:root:{"command": "message", "message": "You are awesome!", "ts": 1648062363}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648062365}
+DEBUG:root:{"command": "message", "message": "Welcome aboard", "ts": 1648062365}
+DEBUG:root:{"command": "message", "message": "Who are you?", "ts": 1648062365}
+DEBUG:root:{"command": "message", "message": "I'm Joe", "ts": 1648062365}
+DEBUG:root:{"command": "message", "message": "Nice to meet you Joe", "ts": 1648062365}
+DEBUG:root:{"command": "message", "message": "Cya around", "ts": 1648062365}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648062908}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "banana"}
+DEBUG:root:{"command": "message", "message": "banananaa", "ts": 1648062929}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "banana"}
+DEBUG:root:{"command": "message", "message": "aaaaa", "ts": 1648062949}
+DEBUG:root:{"command": "message", "message": "aaaaaa", "ts": 1648062951}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "banana"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "a"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "join b", "ts": 1648063154}
+DEBUG:root:{"command": "join", "channel": "b"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648063581}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648063581}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648063583}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648063583}
+DEBUG:root:{"command": "message", "message": "How are you?", "ts": 1648063583}
+DEBUG:root:{"command": "message", "message": "Are you new around here?", "ts": 1648063584}
+DEBUG:root:{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648063584}
+DEBUG:root:{"command": "message", "message": "You are awesome!", "ts": 1648063584}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648063586}
+DEBUG:root:{"command": "message", "message": "Welcome aboard", "ts": 1648063586}
+DEBUG:root:{"command": "message", "message": "Who are you?", "ts": 1648063586}
+DEBUG:root:{"command": "message", "message": "I'm Joe", "ts": 1648063586}
+DEBUG:root:{"command": "message", "message": "Nice to meet you Joe", "ts": 1648063586}
+DEBUG:root:{"command": "message", "message": "Cya around", "ts": 1648063586}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648063589}
+DEBUG:root:{"command": "join", "channel": "#cd"}
+DEBUG:root:{"command": "message", "message": "no one is here...", "ts": 1648063589}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "#c1"}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "Hello darkness, my old friend", "ts": 1648063591}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "I've come to talk with you again", "ts": 1648063591}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648063650}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648063650}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648063652}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648063652}
+DEBUG:root:{"command": "message", "message": "How are you?", "ts": 1648063652}
+DEBUG:root:{"command": "message", "message": "Are you new around here?", "ts": 1648063652}
+DEBUG:root:{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648063652}
+DEBUG:root:{"command": "message", "message": "You are awesome!", "ts": 1648063652}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648063655}
+DEBUG:root:{"command": "message", "message": "Welcome aboard", "ts": 1648063655}
+DEBUG:root:{"command": "message", "message": "Who are you?", "ts": 1648063655}
+DEBUG:root:{"command": "message", "message": "I'm Joe", "ts": 1648063655}
+DEBUG:root:{"command": "message", "message": "Nice to meet you Joe", "ts": 1648063655}
+DEBUG:root:{"command": "message", "message": "Cya around", "ts": 1648063655}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648063657}
+DEBUG:root:{"command": "join", "channel": "#cd"}
+DEBUG:root:{"command": "message", "message": "no one is here...", "ts": 1648063658}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "#c1"}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "Hello darkness, my old friend", "ts": 1648063660}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "I've come to talk with you again", "ts": 1648063660}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648063698}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648063795}
+DEBUG:root:{"command": "message", "message": "tudo", "ts": 1648063801}
+DEBUG:root:{"command": "join", "channel": "cd"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648063812}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648064915}
+DEBUG:root:sent "{"command": "message", "message": "ola", "ts": 1648064915}
+DEBUG:root:sent "{"command": "message", "message": "ola", "ts": 1648064915}
+DEBUG:root:{"command": "join", "channel": "a"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648064921}
+DEBUG:root:sent "{"command": "message", "message": "a", "ts": 1648064921}
+DEBUG:root:sent "{"command": "message", "message": "a", "ts": 1648064921}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "join", "channel": "bananananana"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648064964}
+DEBUG:root:sent "{"command": "message", "message": "ola", "ts": 1648064964}
+DEBUG:root:sent "{"command": "message", "message": "ola", "ts": 1648064964}
+DEBUG:root:{"command": "message", "message": "oi?", "ts": 1648064973}
+DEBUG:root:sent "{"command": "message", "message": "oi?", "ts": 1648064973}
+DEBUG:root:sent "{"command": "message", "message": "oi?", "ts": 1648064973}
+DEBUG:root:{"command": "message", "message": "dwdw/join ahahah", "ts": 1648064983}
+DEBUG:root:sent "{"command": "message", "message": "dwdw/join ahahah", "ts": 1648064983}
+DEBUG:root:sent "{"command": "message", "message": "dwdw/join ahahah", "ts": 1648064983}
+DEBUG:root:{"command": "join", "channel": "ahah"}
+DEBUG:root:{"command": "message", "message": "a", "ts": 1648064999}
+DEBUG:root:sent "{"command": "message", "message": "a", "ts": 1648064999}
+DEBUG:root:sent "{"command": "message", "message": "a", "ts": 1648064999}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "message", "message": "wdwdw", "ts": 1648065215}
+DEBUG:root:sent "{"command": "message", "message": "wdwdw", "ts": 1648065215}
+DEBUG:root:sent "{"command": "message", "message": "wdwdw", "ts": 1648065215}
+DEBUG:root:{"command": "join", "channel": "bananan"}
+DEBUG:root:{"command": "message", "message": "ola", "ts": 1648065225}
+DEBUG:root:sent "{"command": "message", "message": "ola", "ts": 1648065225}
+DEBUG:root:sent "{"command": "message", "message": "ola", "ts": 1648065225}
+DEBUG:root:{"command": "message", "message": "ola banana", "ts": 1648065232}
+DEBUG:root:sent "{"command": "message", "message": "ola banana", "ts": 1648065232}
+DEBUG:root:sent "{"command": "message", "message": "ola banana", "ts": 1648065232}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065482}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065482}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065482}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648065482}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065482}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065482}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065484}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065484}
+DEBUG:root:{"command": "message", "message": "How are you?", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "How are you?", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "How are you?", "ts": 1648065484}
+DEBUG:root:{"command": "message", "message": "Are you new around here?", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "Are you new around here?", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "Are you new around here?", "ts": 1648065484}
+DEBUG:root:{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065484}
+DEBUG:root:sent "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065484}
+DEBUG:root:{"command": "message", "message": "You are awesome!", "ts": 1648065485}
+DEBUG:root:sent "{"command": "message", "message": "You are awesome!", "ts": 1648065485}
+DEBUG:root:sent "{"command": "message", "message": "You are awesome!", "ts": 1648065485}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065487}
+DEBUG:root:{"command": "message", "message": "Welcome aboard", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Welcome aboard", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Welcome aboard", "ts": 1648065487}
+DEBUG:root:{"command": "message", "message": "Who are you?", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Who are you?", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Who are you?", "ts": 1648065487}
+DEBUG:root:{"command": "message", "message": "I'm Joe", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "I'm Joe", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "I'm Joe", "ts": 1648065487}
+DEBUG:root:{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065487}
+DEBUG:root:{"command": "message", "message": "Cya around", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Cya around", "ts": 1648065487}
+DEBUG:root:sent "{"command": "message", "message": "Cya around", "ts": 1648065487}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648065490}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065490}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065490}
+DEBUG:root:{"command": "join", "channel": "#cd"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065585}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065585}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065585}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648065585}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065585}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065585}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065587}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065587}
+DEBUG:root:{"command": "message", "message": "How are you?", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "How are you?", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "How are you?", "ts": 1648065587}
+DEBUG:root:{"command": "message", "message": "Are you new around here?", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "Are you new around here?", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "Are you new around here?", "ts": 1648065587}
+DEBUG:root:{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065587}
+DEBUG:root:{"command": "message", "message": "You are awesome!", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "You are awesome!", "ts": 1648065587}
+DEBUG:root:sent "{"command": "message", "message": "You are awesome!", "ts": 1648065587}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065590}
+DEBUG:root:{"command": "message", "message": "Welcome aboard", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Welcome aboard", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Welcome aboard", "ts": 1648065590}
+DEBUG:root:{"command": "message", "message": "Who are you?", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Who are you?", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Who are you?", "ts": 1648065590}
+DEBUG:root:{"command": "message", "message": "I'm Joe", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "I'm Joe", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "I'm Joe", "ts": 1648065590}
+DEBUG:root:{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065590}
+DEBUG:root:{"command": "message", "message": "Cya around", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Cya around", "ts": 1648065590}
+DEBUG:root:sent "{"command": "message", "message": "Cya around", "ts": 1648065590}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648065592}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065592}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065592}
+DEBUG:root:{"command": "join", "channel": "#cd"}
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065753}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065753}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065753}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648065753}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065753}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065753}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648065756}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648065756}
+DEBUG:root:{"command": "message", "message": "How are you?", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "How are you?", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "How are you?", "ts": 1648065756}
+DEBUG:root:{"command": "message", "message": "Are you new around here?", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "Are you new around here?", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "Are you new around here?", "ts": 1648065756}
+DEBUG:root:{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648065756}
+DEBUG:root:{"command": "message", "message": "You are awesome!", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "You are awesome!", "ts": 1648065756}
+DEBUG:root:sent "{"command": "message", "message": "You are awesome!", "ts": 1648065756}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648065758}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065758}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065758}
+DEBUG:root:{"command": "message", "message": "Welcome aboard", "ts": 1648065758}
+DEBUG:root:sent "{"command": "message", "message": "Welcome aboard", "ts": 1648065758}
+DEBUG:root:sent "{"command": "message", "message": "Welcome aboard", "ts": 1648065758}
+DEBUG:root:{"command": "message", "message": "Who are you?", "ts": 1648065758}
+DEBUG:root:sent "{"command": "message", "message": "Who are you?", "ts": 1648065758}
+DEBUG:root:sent "{"command": "message", "message": "Who are you?", "ts": 1648065758}
+DEBUG:root:{"command": "message", "message": "I'm Joe", "ts": 1648065758}
+DEBUG:root:sent "{"command": "message", "message": "I'm Joe", "ts": 1648065758}
+DEBUG:root:sent "{"command": "message", "message": "I'm Joe", "ts": 1648065758}
+DEBUG:root:{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065759}
+DEBUG:root:sent "{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065759}
+DEBUG:root:sent "{"command": "message", "message": "Nice to meet you Joe", "ts": 1648065759}
+DEBUG:root:{"command": "message", "message": "Cya around", "ts": 1648065759}
+DEBUG:root:sent "{"command": "message", "message": "Cya around", "ts": 1648065759}
+DEBUG:root:sent "{"command": "message", "message": "Cya around", "ts": 1648065759}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648065761}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065761}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648065761}
+DEBUG:root:{"command": "join", "channel": "#cd"}
+DEBUG:root:{"command": "message", "message": "no one is here...", "ts": 1648065761}
+DEBUG:root:sent "{"command": "message", "message": "no one is here...", "ts": 1648065761}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "#c1"}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "Hello darkness, my old friend", "ts": 1648065766}
+DEBUG:root:sent "{"command": "message", "message": "Hello darkness, my old friend", "ts": 1648065766}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "I've come to talk with you again", "ts": 1648065766}
+DEBUG:root:sent "{"command": "message", "message": "I've come to talk with you again", "ts": 1648065766}
+DEBUG:root:sent "{"command": "message", "message": "I've come to talk with you again", "ts": 1648065766}
+DEBUG:root:{"command": "join", "channel": "#c1"}
+DEBUG:root:{"command": "message", "message": "Because a vision softly creeping", "ts": 1648065766}
+DEBUG:root:sent "{"command": "message", "message": "Because a vision softly creeping", "ts": 1648065766}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648066269}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648066269}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648066269}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648066269}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648066269}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648066269}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "Ol\u00e1 Mundo", "ts": 1648066271}
+DEBUG:root:{"command": "message", "message": "Hello World", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "Hello World", "ts": 1648066271}
+DEBUG:root:{"command": "message", "message": "How are you?", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "How are you?", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "How are you?", "ts": 1648066271}
+DEBUG:root:{"command": "message", "message": "Are you new around here?", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "Are you new around here?", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "Are you new around here?", "ts": 1648066271}
+DEBUG:root:{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "Hope you enjoy your stay", "ts": 1648066271}
+DEBUG:root:{"command": "message", "message": "You are awesome!", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "You are awesome!", "ts": 1648066271}
+DEBUG:root:sent "{"command": "message", "message": "You are awesome!", "ts": 1648066271}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648066274}
+DEBUG:root:{"command": "message", "message": "Welcome aboard", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Welcome aboard", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Welcome aboard", "ts": 1648066274}
+DEBUG:root:{"command": "message", "message": "Who are you?", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Who are you?", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Who are you?", "ts": 1648066274}
+DEBUG:root:{"command": "message", "message": "I'm Joe", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "I'm Joe", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "I'm Joe", "ts": 1648066274}
+DEBUG:root:{"command": "message", "message": "Nice to meet you Joe", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Nice to meet you Joe", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Nice to meet you Joe", "ts": 1648066274}
+DEBUG:root:{"command": "message", "message": "Cya around", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Cya around", "ts": 1648066274}
+DEBUG:root:sent "{"command": "message", "message": "Cya around", "ts": 1648066274}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "message", "message": "Hello!", "ts": 1648066276}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648066276}
+DEBUG:root:sent "{"command": "message", "message": "Hello!", "ts": 1648066276}
+DEBUG:root:{"command": "join", "channel": "#cd"}
+DEBUG:root:{"command": "message", "message": "no one is here...", "ts": 1648066276}
+DEBUG:root:sent "{"command": "message", "message": "no one is here...", "ts": 1648066276}
+DEBUG:root:None
+DEBUG:root:None
+DEBUG:root:{"command": "register", "user": "Foo"}
+DEBUG:root:{"command": "register", "user": "Bar"}
+DEBUG:root:{"command": "join", "channel": "#c1"}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "Hello darkness, my old friend", "ts": 1648066281}
+DEBUG:root:sent "{"command": "message", "message": "Hello darkness, my old friend", "ts": 1648066281}
+DEBUG:root:{"command": "join", "channel": "#c2"}
+DEBUG:root:{"command": "message", "message": "I've come to talk with you again", "ts": 1648066281}
+DEBUG:root:sent "{"command": "message", "message": "I've come to talk with you again", "ts": 1648066281}
+DEBUG:root:sent "{"command": "message", "message": "I've come to talk with you again", "ts": 1648066281}
+DEBUG:root:{"command": "join", "channel": "#c1"}
+DEBUG:root:{"command": "message", "message": "Because a vision softly creeping", "ts": 1648066281}
+DEBUG:root:sent "{"command": "message", "message": "Because a vision softly creeping", "ts": 1648066281}
+DEBUG:root:None
+DEBUG:root:None
